@@ -7,5 +7,5 @@ http://r-pkgs.had.co.nz/git.html
 Extensive guide - with less emphasis on RStudio
 http://happygitwithr.com/
 
-Long explanation form Jenny - talks more about RStudio
+Great (but long) video from Jenny - talks more about RStudio
 https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/
