@@ -9,3 +9,5 @@ http://happygitwithr.com/
 
 Great (but long) video from Jenny - talks more about RStudio
 https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/
+
+You can also host websites from GitHub
