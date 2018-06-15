@@ -23,3 +23,5 @@ Check “Staged” box for README.md.
 If you’re not already in the Git pop-up, click “Commit”.
 Type a message in “Commit message”, such as “Commit from RStudio”.
 Click “Commit”.
+
+Click the green “Push” button to send your local changes to GitHub.
