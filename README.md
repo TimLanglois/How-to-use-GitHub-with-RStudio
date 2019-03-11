@@ -9,19 +9,3 @@ http://happygitwithr.com/
 
 Great (but long) video from Jenny - talks more about RStudio
 https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/
-
-You can also host websites from GitHub
-
-
-Quick example:
-Commit these changes to your local repo. How?
-
-From RStudio:
-
-Click the “Git” tab in upper right pane.
-Check “Staged” box for README.md.
-If you’re not already in the Git pop-up, click “Commit”.
-Type a message in “Commit message”, such as “Commit from RStudio”.
-Click “Commit”.
-
-Click the green “Push” button to send your local changes to GitHub.
